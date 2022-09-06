@@ -1,0 +1,24 @@
+{
+    "name": "afip",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/Afip.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/franalt/afip.js.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/franalt/afip.js/issues"
+    },
+    "homepage": "https://github.com/franalt/afip.js#readme",
+    "dependencies": {
+        "node-forge": "^0.10.0",
+        "soap": "^0.24.0",
+        "xml2js": "^0.4.22"
+    }
+}
